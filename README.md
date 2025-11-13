@@ -9,10 +9,6 @@
 ## Установка
 1. Клонируйте репозиторий: `git clone https://github.com/crunchykillah/ono-tebe-nado-ad.git`
 
-## Использование
-- Откройте `index.html` в браузере.
-- Просмотр: http://localhost:3000
-
 ## Структура проекта
 - `index.html` — основная разметка
 - `styles/` — CSS файлы (global.css, style.css)
