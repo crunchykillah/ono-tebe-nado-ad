@@ -1,4 +1,3 @@
-/* === ОБЩИЕ СТИЛИ === */
 .header,
 .cover,
 .footer {
@@ -93,10 +92,17 @@
     display: block;
 }
 
-.aligned-text_center { text-align: center; }
-.aligned-text_right { text-align: right; }
+.aligned-text_center {
+    text-align: center;
+}
 
-.no-letter-spacing { letter-spacing: 0 !important; }
+.aligned-text_right {
+    text-align: right;
+}
+
+.no-letter-spacing {
+    letter-spacing: 0 !important;
+}
 
 .cover__description {
     position: relative;
@@ -162,9 +168,17 @@
     color: #fff;
 }
 
-.card_type_film { background-image: url(../images/card-lot-01.jpg); }
-.card_type_book { background-image: url(../images/card-lot-02.jpg); }
-.card_type_picture { background-image: url(../images/card-lot-03.jpg); }
+.card_type_film {
+    background-image: url(../images/card-lot-01.jpg);
+}
+
+.card_type_book {
+    background-image: url(../images/card-lot-02.jpg);
+}
+
+.card_type_picture {
+    background-image: url(../images/card-lot-03.jpg);
+}
 
 .card__title {
     font-size: 22px;
