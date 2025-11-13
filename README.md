@@ -3,6 +3,12 @@
 ## Описание
 Это фронтенд-проект landing page для аукциона "Оно тебе надо" — платформы для продажи вещей, в которые никто не верил. Сверстан по макету из Figma с использованием HTML, CSS и семантической разметки. Поддерживает ширину экрана 1100px.
 
+## Репозиторий
+Проект доступен по ссылке: [https://github.com/crunchykillah/ono-tebe-nado-ad](https://github.com/crunchykillah/ono-tebe-nado-ad) 
+
+## Установка
+1. Клонируйте репозиторий: `git clone https://github.com/crunchykillah/ono-tebe-nado-ad.git`
+
 ## Использование
 - Откройте `index.html` в браузере.
 - Просмотр: http://localhost:3000
